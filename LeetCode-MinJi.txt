@@ -1,0 +1,7 @@
+1768. Merge Strings Alternately 
+https://leetcode.com/problems/merge-strings-alternately/solutions/3612633/simple-java-solution-from-a-beginner-for-a-beginner-runtime-0ms/
+
+
+1071. Greatest Common Divisor or Strings
+https://leetcode.com/problems/greatest-common-divisor-of-strings/solutions/3613102/simple-java-solution-from-a-beginner-for-a-beginner-runtime-0ms/
+
