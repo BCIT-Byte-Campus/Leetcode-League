@@ -12,3 +12,7 @@ https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/solutions
 
 605. Can Place Flowers
 https://leetcode.com/problems/can-place-flowers/solutions/3617273/simple-java-solution-from-a-beginner-for-a-beginner/
+
+
+345. Reverse Vowels of a String **AMZN**
+https://leetcode.com/problems/reverse-vowels-of-a-string/solutions/3617438/simple-java-solution-from-a-beginner-for-a-beginner/
