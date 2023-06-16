@@ -1,0 +1,54 @@
+## [Array / String] 151. Reverse Words in a String
+
+### My solution
+Runtime: 210 ms
+
+```py
+class Solution(object):
+    def productExceptSelf(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
+        length = len(nums)
+
+        left = [0]*length
+        left[0] = 1
+
+        for i in range(1, length):
+            left[i] = nums[i - 1] * left[i - 1]
+
+        right = [0]*length
+        right[length - 1] = 1
+
+        for i in reversed(range(length - 1)):
+            right[i] = nums[i + 1] * right[i + 1]
+
+        for i in range(length):
+            nums[i] = left[i] * right[i]
+
+        return nums
+            
+```
+
+### Example 159 ms submission
+```py
+class Solution(object):
+    def productExceptSelf(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
+        res=[1]*len(nums)
+        pre=1
+        for i in range(len(nums)):
+            res[i]=pre
+            pre *= nums[i]
+            
+        post=1
+        for j in range (len(nums)-1,-1,-1):
+            res[j] *= post
+            post *= nums[j]
+
+        return res        
+```

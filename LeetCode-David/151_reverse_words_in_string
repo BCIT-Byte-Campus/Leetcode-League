@@ -1,0 +1,29 @@
+## [Array / String] 151. Reverse Words in a String
+
+### My solution
+Runtime: 28 ms
+
+```py
+class Solution(object):
+    def reverseWords(self, s):
+        """
+        :type s: str
+        :rtype: str
+        """
+        lst = s.split(" ")
+        final = " ".join(reversed(lst))
+        return " ".join(final.split())
+```
+
+### Example 0 ms submission
+```py
+class Solution(object):
+    def reverseWords(self, s):
+        """
+        :type s: str
+        :rtype: str
+        """
+        l=s.split()
+        l=l[::-1]
+        return ' '.join(l)
+```
