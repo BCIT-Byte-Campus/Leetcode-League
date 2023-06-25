@@ -13,3 +13,5 @@
 [238. Product of Array Except Self **POPULAR**](https://leetcode.com/problems/product-of-array-except-self/solutions/3644747/simple-java-solution-from-a-beginner-for-a-beginner/)
 
 [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/solutions/3654102/simple-java-solution-from-a-beginner-for-a-beginner/)
+
+[443. String Compression](https://leetcode.com/problems/string-compression/solutions/3680667/simple-java-solution-from-a-beginner-for-a-beginner/)
