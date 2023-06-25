@@ -15,3 +15,5 @@
 [334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/solutions/3654102/simple-java-solution-from-a-beginner-for-a-beginner/)
 
 [443. String Compression](https://leetcode.com/problems/string-compression/solutions/3680667/simple-java-solution-from-a-beginner-for-a-beginner/)
+
+[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/solutions/3680696/simple-java-solution-from-a-beginner-for-a-beginner/)
