@@ -21,3 +21,5 @@
 [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/solutions/3680721/simple-java-solution-from-a-beginner-for-a-beginner/)
 
 [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/solutions/3680748/simple-java-solution-from-a-beginner-for-a-beginner/)
+
+[1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/solutions/3704931/simple-java-solution-from-a-beginner-for-a-beginner/)
