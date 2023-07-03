@@ -20,3 +20,6 @@
 
 ## Week 4 (June.26 ~ July.02)
 1679. Max Number of K-Sum Pairs
+643. Maximum Average Subarray I
+1456. Maximum Number of Vowels in a Substring of Given Length
+
