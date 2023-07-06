@@ -29,3 +29,5 @@
 [1456. Maximum Number of Vowels in a Substring of Given Length **MS**](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/solutions/3705118/simple-java-solution-from-a-beginner-for-a-beginner/)
 
 [1004. Max Consecutive Ones III **GGL/FB**](https://leetcode.com/problems/max-consecutive-ones-iii/solutions/3725934/simple-java-solution-from-a-beginner-for-a-beginner/)
+
+[1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/solutions/3726243/simple-java-solution-from-a-beginner-for-a-beginner/)
