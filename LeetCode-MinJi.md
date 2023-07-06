@@ -31,3 +31,5 @@
 [1004. Max Consecutive Ones III **GGL/FB**](https://leetcode.com/problems/max-consecutive-ones-iii/solutions/3725934/simple-java-solution-from-a-beginner-for-a-beginner/)
 
 [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/solutions/3726243/simple-java-solution-from-a-beginner-for-a-beginner/)
+
+[1732. Find the Highest Altitude **AMZN/GGL/FB**](https://leetcode.com/problems/find-the-highest-altitude/solutions/3726364/simple-java-solution-from-a-beginner-for-a-beginner/)
