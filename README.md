@@ -23,3 +23,10 @@
 643. Maximum Average Subarray I
 1456. Maximum Number of Vowels in a Substring of Given Length
 
+## Week 4 (July.03 ~ July.09)
+1004. Max Consecutive Ones III
+1493. Longest Subarray of 1's After Deleting One Element
+1732. Find the Highest Altitude
+
+
+
