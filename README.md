@@ -51,3 +51,5 @@ Click on the links below to my detailed solutions!
 **Week 6**
 
 [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/solutions/3758625/simple-java-solution-from-a-beginner-for-a-beginner/)
+
+[2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/solutions/3758805/simple-java-solution-from-a-beginner-for-a-beginner/)
