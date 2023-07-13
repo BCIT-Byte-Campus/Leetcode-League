@@ -47,3 +47,7 @@ Click on the links below to my detailed solutions!
 [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/solutions/3726243/simple-java-solution-from-a-beginner-for-a-beginner/)
 
 [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/solutions/3726364/simple-java-solution-from-a-beginner-for-a-beginner/)
+
+**Week 6**
+
+[724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/solutions/3758625/simple-java-solution-from-a-beginner-for-a-beginner/)
