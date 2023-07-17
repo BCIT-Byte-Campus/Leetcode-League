@@ -1,5 +1,7 @@
 # LeetCode 75
 
+[![jenkwon92's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=jenkwon92&theme=Dark)](https://leetcode.com/jenkwon92/)
+
 ## Week 1 (June.05 ~ June.11)
 1768. Merge Strings Alternately
 1071. Greatest Common Divisor of Strings
