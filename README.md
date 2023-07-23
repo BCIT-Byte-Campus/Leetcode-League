@@ -64,3 +64,4 @@ Click on the links below to my detailed solutions!
 
 [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/solutions/3805238/simple-java-solution-from-a-beginner-for-a-beginner/)
 
+[735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/solutions/3807393/simple-java-solution-from-a-beginner-for-a-beginner/)
