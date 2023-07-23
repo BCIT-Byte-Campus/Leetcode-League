@@ -57,3 +57,5 @@ Click on the links below to my detailed solutions!
 [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/solutions/3759195/simple-java-solution-from-a-beginner-for-a-beginner/)
 
 [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/solutions/3759405/simple-java-solution-from-a-beginner-for-a-beginner/)
+
+[2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/solutions/3805044/simple-java-solution-from-a-beginner-for-a-beginner/)
