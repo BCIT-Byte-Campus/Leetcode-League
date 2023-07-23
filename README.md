@@ -58,4 +58,9 @@ Click on the links below to my detailed solutions!
 
 [1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/solutions/3759405/simple-java-solution-from-a-beginner-for-a-beginner/)
 
+**Week 7**
+
 [2352. Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/solutions/3805044/simple-java-solution-from-a-beginner-for-a-beginner/)
+
+[2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/solutions/3805238/simple-java-solution-from-a-beginner-for-a-beginner/)
+
