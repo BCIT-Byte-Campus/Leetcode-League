@@ -38,6 +38,8 @@
 
 ## Week 7 (July.17 ~ July.23)
 2352. Equal Row and Column Pairs
+2390. Removing Stars From a String
+735. Asteroid Collision
 
 
 
